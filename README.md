@@ -1,4 +1,7 @@
 # kakotalk-emoticon-downloader
+
+[EN](README.md) [KR](README_KR.md)
+
 Adds a small button to download all emoticons in the set
 
 ## Installation
