@@ -5,8 +5,8 @@
 // @grant GM_setClipboard
 // @run-at document-end
 // @match    https://e.kakao.com/t/*
-// @downloadURL https://github.com/LMNYX/kakotalk-emoticon-downloader/raw/main/kakaoyoink.user.js
-// @updateURL https://github.com/LMNYX/kakotalk-emoticon-downloader/raw/main/kakaoyoink.user.js
+// @downloadURL https://github.com/LMNYX/kakaotalk-emoticon-downloader/raw/main/kakaoyoink.user.js
+// @updateURL https://github.com/LMNYX/kakaotalk-emoticon-downloader/raw/main/kakaoyoink.user.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // ==/UserScript==
 
